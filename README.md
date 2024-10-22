@@ -80,8 +80,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=kos97k&theme=darcula" alt="Layout with last medium posts"  />
-</div>
+<br clear="both">
+
+<h1 align="center">What if mag suntukan tayo sa puregold paso de blas?</h1>
 
 ###

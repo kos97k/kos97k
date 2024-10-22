@@ -85,3 +85,9 @@
 <h1 align="center">What if mag suntukan tayo sa puregold paso de blas?</h1>
 
 ###
+
+<br clear="both">
+
+<p align="left"></p>
+
+###
